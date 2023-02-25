@@ -1,0 +1,5 @@
+D:\User\Visual Studio\Common7\IDE\Remote Debugger\Appx\obj\Debug\net7.0\Appx.csproj.AssemblyReference.cache
+D:\User\Visual Studio\Common7\IDE\Remote Debugger\Appx\obj\Debug\net7.0\Appx.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Visual Studio\Common7\IDE\Remote Debugger\Appx\obj\Debug\net7.0\Appx.AssemblyInfoInputs.cache
+D:\User\Visual Studio\Common7\IDE\Remote Debugger\Appx\obj\Debug\net7.0\Appx.AssemblyInfo.cs
+D:\User\Visual Studio\Common7\IDE\Remote Debugger\Appx\obj\Debug\net7.0\Appx.csproj.CoreCompileInputs.cache
